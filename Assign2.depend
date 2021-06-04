@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1602354971 source:d:\matrial\other course\c++\sheet 1s\assign2\chararray.cpp
+	"chararray.h"
+	<string>
+	<cstring>
+	<cctype>
+	<bits/stdc++.h>
+
+1602354971 d:\matrial\other course\c++\sheet 1s\assign2\chararray.h
+	<string>
+	<cstring>
+	<cctype>
+	<bits/stdc++.h>
+
+1602355165 source:d:\matrial\other course\c++\sheet 1s\assign2\main.cpp
+	<iostream>
+	"chararray.h"
+	<string>
+	<cstring>
+	<cctype>
+	<bits/stdc++.h>
+
